@@ -2,8 +2,10 @@
 
 ## What is it?
 
-**knok-knok** is an easy-to-use python package for sending push notifications across andriod and ios devices.   
+**knok-knok** is an easy-to-use python package for sending push notifications across andriod and ios devices.  
+  
 **Tired of looking around for solutions to send your notifications?**  
+  
 No more worries now, **knok-knok** does all the heavy lifting of research and bug-fixes for you. Let's get started. 
 
 ## Our Features include
@@ -18,8 +20,7 @@ No more worries now, **knok-knok** does all the heavy lifting of research and bu
 The source code is currently hosted on GitHub at:
 https://github.com/ajaysharma132/knok-knok
 
-Binary installers for the latest released version are available at the [Python
-Package Index (PyPI)].
+Binary installers for the latest released version are available at the [Python Package Index (PyPI)](https://pypi.org/project/knok-knok).
 
 ```sh
 # PyPI
