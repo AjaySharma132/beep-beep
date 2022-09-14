@@ -2,8 +2,8 @@
 
 ## What is it?
 
-**knok-knok** is an easy-to-use python package for sending push notifications across andriod and ios devices. 
-**Tired of looking around for solutions to send your notifications?**
+**knok-knok** is an easy-to-use python package for sending push notifications across andriod and ios devices.   
+**Tired of looking around for solutions to send your notifications?**  
 No more worries now, **knok-knok** does all the heavy lifting of research and bug-fixes for you. Let's get started. 
 
 ## Our Features include
